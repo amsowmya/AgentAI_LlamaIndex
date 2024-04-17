@@ -1,0 +1,9 @@
+llama-index
+pypdf
+pandas
+python-dotenv
+llama-index-experimental
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+llama-index-readers-smart-pdf-loader
+llama-index-readers-file
